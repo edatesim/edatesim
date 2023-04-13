@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @edatesim
 - 👀 I’m interested in software
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning java programming language
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me edatesim@gmail.com 
+- 📫 edatesim@gmail.com 
 
 <!---
 edatesim/edatesim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
